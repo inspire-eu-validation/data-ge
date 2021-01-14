@@ -83,9 +83,11 @@ Prefix         | Namespace
 -------------- | -------------------------------------------------
 gml            | http://www.opengis.net/gml/3.2
 ge             | http://inspire.ec.europa.eu/schemas/ge-core/4.0
+ge_gp      	   | http://inspire.ec.europa.eu/schemas/ge_gp/4.0
+ge_hg   	      | http://inspire.ec.europa.eu/schemas/ge_hg/4.0
 
 The following variables are used to refer to the corresponding Xpath expressions in all test descriptions:
 
 Variable       | Value
 -------------- | -------------------------------------------------
-features <a name="features"></a>   |  //schema-element(ge:AnthropogenicGeomorphologicFeature) \| //schema-element(ge:Borehole) \| //schema-element(ge:Fold) \| //schema-element(ge:GeologicCollection) \| //schema-element(ge:GeologicEvent) \| //schema-element(ge:NaturalGeomorphologicFeature) \| //schema-element(ge:GeologicUnit) \| //schema-element(ge:MappedFeature) \| //schema-element(ge:MappedInterval)) \| //schema-element(ge:ShearDisplacementStructure) \| //schema-element(ge-gp:Campaign)) \| //schema-element(ge-gp:GeophObjectSet) \|  //schema-element(ge-gp:GeophProfile) \| //schema-element(ge-gp:GeophStation) \| //schema-element(ge-gp:GeophSwath) \| //schema-element(ge-hg:ActiveWell) \| //schema-element(ge-hg:Aquifer) \| //schema-element(ge-hg:AquiferSystem) \| //schema-element(ge-hg:Aquitard) \| //schema-element(ge-hg:GroundWaterBody) \| //schema-element(ge-hg:HydrogeologicalObjectNatural) \| //schema-element(ge-hg:Aquiclude)
+features <a name="features"></a>   |  //schema-element(ge:AnthropogenicGeomorphologicFeature) \| //schema-element(ge:Borehole) \| //schema-element(ge:Fold) \| //schema-element(ge:GeologicCollection) \| //schema-element(ge:GeologicEvent) \| //schema-element(ge:NaturalGeomorphologicFeature) \| //schema-element(ge:GeologicUnit) \| //schema-element(ge:MappedFeature) \| //schema-element(ge:MappedInterval)) \| //schema-element(ge:ShearDisplacementStructure) \| //schema-element(ge_gp:Campaign)) \| //schema-element(ge_gp:GeophObjectSet) \|  //schema-element(ge_gp:GeophProfile) \| //schema-element(ge_gp:GeophStation) \| //schema-element(ge_gp:GeophSwath) \| //schema-element(ge_hg:ActiveWell) \| //schema-element(ge_hg:Aquifer) \| //schema-element(ge_hg:AquiferSystem) \| //schema-element(ge_hg:Aquitard) \| //schema-element(ge_hg:GroundWaterBody) \| //schema-element(ge_hg:HydrogeologicalObjectNatural) \| //schema-element(ge_hg:Aquiclude)
