@@ -6,14 +6,14 @@ The specification specifies the following conformance classes:
 
 | Conformance class | Standardization target |
 | ----------------- | ---------------------- |
-| [GML application schemas, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/master/ge-gml) | INSPIRE spatial data set encoded in GML, Geology features |
-| [Application Schema, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/master/ge-core-as) | INSPIRE spatial data set |
-| [Application Schema, Geophysics](http://inspire.ec.europa.eu/id/ats/data-ge/master/ge_gp-as) | INSPIRE spatial data set |
-| [Application Schema, Hydrogeology](http://inspire.ec.europa.eu/id/ats/data-ge/master/ge_hg-as) | INSPIRE spatial data set |
-| [Reference Systems, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/master/ge-rs) | INSPIRE spatial data set |
-| [Data Consistency, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/master/ge-dc) | INSPIRE spatial data set |
-| [Information Accessibility, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/master/ge-ia) | INSPIRE spatial data set |
-| [Portrayal, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/master/ge-portrayal) | INSPIRE view service |
+| [GML application schemas, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/3.0/ge-gml) | INSPIRE spatial data set encoded in GML, Geology features |
+| [Application Schema, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/3.0/ge-core-as) | INSPIRE spatial data set |
+| [Application Schema, Geophysics](http://inspire.ec.europa.eu/id/ats/data-ge/3.0/ge_gp-as) | INSPIRE spatial data set |
+| [Application Schema, Hydrogeology](http://inspire.ec.europa.eu/id/ats/data-ge/3.0/ge_hg-as) | INSPIRE spatial data set |
+| [Reference Systems, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/3.0/ge-rs) | INSPIRE spatial data set |
+| [Data Consistency, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/3.0/ge-dc) | INSPIRE spatial data set |
+| [Information Accessibility, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/3.0/ge-ia) | INSPIRE spatial data set |
+| [Portrayal, Geology](http://inspire.ec.europa.eu/id/ats/data-ge/3.0/ge-portrayal) | INSPIRE view service |
 
 
 ## Approach
