@@ -1,4 +1,4 @@
-# Conformance class: Application schema, Geology
+# Conformance class: Application schema, Geophysics
 
 Conformance class for the requirements associated with the application schema. 
 
