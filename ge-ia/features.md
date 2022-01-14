@@ -66,8 +66,8 @@ The namespace prefixes used as described in [README](./README.md#namespaces).
 Abbreviation                         |  XPath expression    | Multiplicity    | Voidable
 ------------------------------------ | ---------------------|-----------------|------------
 logElement <a name="logElement"></a> | //schema-element(ge:Borehole)/ge:logElement/@xlink:href | 1..\* | Yes
-geophObjectSet <a name="geophObjectSet"></a> | //schema-element(ge:GeologicCollection)/ge:geophObjectSet/@xlink:href | 1 | Yes
-geophObjectMember <a name="geophObjectMember"></a> | //schema-element(ge:GeologicCollection)/ge:geophObjectMember/@xlink:href | 1 | Yes
+geophObjectSet <a name="geophObjectSet"></a> | //schema-element(ge:GeologicCollection)/ge:geophObjectSet/@xlink:href | 0..\* | Yes
+geophObjectMember <a name="geophObjectMember"></a> | //schema-element(ge:GeologicCollection)/ge:geophObjectMember/@xlink:href | 0..\* | Yes
 boreholeMember <a name="boreholeMember"></a> | //schema-element(ge:GeologicCollection)/ge:boreholeMember/@xlink:href | 1..\* | Yes
 mapMember <a name="mapMember"></a> | //schema-element(ge:GeologicCollection)/ge:mapMember/@xlink:href | 1..\* | Yes
 geologicHistory <a name="geologicHistory"></a> | //schema-element(ge:GeologicUnit)/ge:geologicHistory/@xlink:href <br> //schema-element(ge:ShearDisplacementStructure)/ge:geologicHistory/@xlink:href <br> //schema-element(ge:Fold)/ge:geologicHistory/@xlink:href <br> //schema-element(ge:AnthropogenicGeomorphologicFeature)/ge:geologicHistory/@xlink:href <br>//schema-element(ge:NaturalGeomorphologicFeature)/ge:geologicHistory/@xlink:href <br> | 1..\* | Yes
